@@ -3,7 +3,7 @@
    <br>
    WEB-ASSEMBLY
 </h1>
-<h3>◦ <code>► INSERT-TEXT-HERE</code></h3>
+<h3>◦ <code>►This is a simple webserver written in Assembly </code></h3>
 <h3>◦ Developed with the software and tools below.</h3>
 
 <p align="center">
@@ -79,9 +79,14 @@ apt install fasm
 ###  Running Web-Server
 Use the following command to run Web-Server:
 ```sh
-<code>► fasm  web_s.asm</code>
+► fasm  web_s.asm
 ```
-
+### Result
+You can see the result by doing :
+```sh
+► localhost:6969
+## as we are using port 6969 here 
+```
 ##  Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
