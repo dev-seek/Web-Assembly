@@ -20,16 +20,13 @@
 ---
 
 ##  Quick Links
-- [ Quick Links](#-quick-links)
 - [ Overview](#-overview)
 - [ Features](#-features)
 - [ Repository Structure](#-repository-structure)
 - [ Modules](#modules)
 - [ Getting Started](#-getting-started)
     - [ Installation](#-installation)
-    - [ Running Web-Assembly.git](#-running-Web-Assembly.git)
-    - [ Tests](#-tests)
-- [ Roadmap](#-roadmap)
+    - [ Running Web-Server](#-running-Web-Assembly.git)
 - [ Contributing](#-contributing)
 - [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
