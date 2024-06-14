@@ -10,11 +10,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white" alt="Markdown">
 </p>
-
-![license](https://img.shields.io/github/license/dev-seek/Web-Assembly.git?style=flat&labelColor=E5E4E2&color=869BB3)
-![repo-language-count](https://img.shields.io/github/languages/count/dev-seek/Web-Assembly.git?style=flat&labelColor=E5E4E2&color=869BB3)
-![repo-top-language](https://img.shields.io/github/languages/top/dev-seek/Web-Assembly.git?style=flat&labelColor=E5E4E2&color=869BB3)
-![last-commit](https://img.shields.io/github/last-commit/dev-seek/Web-Assembly.git?style=flat&labelColor=E5E4E2&color=869BB3)
 </div>
 
 ---
